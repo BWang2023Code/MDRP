@@ -3,7 +3,7 @@ This repository contains the R code and related files used for the simulation st
 
 ## Overview
 
-The simulation study focuses on the development, evaluation, and comparison of statistical methods aimed at predicting absolute risk even when there are missing risk factors for an individual. The code in this repository was utilized to produce all simulation results presented in the in Section 3 Simulation study of the paper.
+The simulation study focuses on the development, evaluation, and comparison of statistical methods aimed at predicting absolute risk  when there are missing risk factors for an individual. The code in this repository was utilized to produce all simulation results presented in the in Section 3 Simulation study of the paper.
 
 ## Requirements
 
