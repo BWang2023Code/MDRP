@@ -8,7 +8,7 @@ The simulation study focuses on the development, evaluation, and comparison of s
 ## Requirements
 
 - R (version 4.0 or later)
-- Required R packages: (e.g., `tidyverse`, `mice`, ...). Please check the `MDRP simulation Github.R` file for a full list.
+- Required R packages: (e.g., `tidyverse`, `mice`, ...). Please check the `MDRP simulation Github.R` file for more details.
 
 ## Contact
 
